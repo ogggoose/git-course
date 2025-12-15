@@ -6,4 +6,4 @@ str2 = 'shabolda'
 
 alla(str1,str2)
 
-console.log('Test 2')
+console.log('Test 212121212112')
